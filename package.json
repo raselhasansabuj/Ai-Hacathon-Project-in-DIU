@@ -1,0 +1,15 @@
+{
+"name": "kubetorrent-demo",
+"version": "1.0.0",
+"description": "KubeTorrent Web Simulation for Hackathon presentation.",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"scripts": {
+  "dev": "node server.js"
+},
+"dependencies": {
+"express": "^4.19.2"
+}
+}
